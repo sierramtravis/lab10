@@ -1,0 +1,5 @@
+#!/bin/bash
+
+javac CircleTest.java
+java CircleTest
+rm *.class

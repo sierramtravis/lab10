@@ -1,0 +1,51 @@
+// Lab 10
+      // <Sierra Travis>
+      // <61059>
+Q1) 
+Input radius for circle                                                                                                            
+2                                                                                                                                  
+Input side for triangle                                                                                                            
+3                                                                                                                                  
+Input width for rectangle                                                                                                          
+4                                                                                                                                  
+Input length for rectangle                                                                                                         
+2                                                                                                                                  
+totalArea: 24.457114317029976                                                                                                      
+totalPerimeter: 29.060000000000002
+
+Input radius for circle                                                                                                            
+1                                                                                                                                  
+Input side for triangle                                                                                                            
+4.5                                                                                                                                
+Input width for rectangle                                                                                                          
+10                                                                                                                                 
+Input length for rectangle                                                                                                         
+12.2                                                                                                                               
+totalArea: 133.90850721331745                                                                                                      
+totalPerimeter: 57.43
+
+Q2)
+Found me!
+
+Q3)
+Error: Could not find or load main class Lab10
+
+Q4)
+Error: Could not find or load main class myDir.Lab10 
+
+Q5)
+Found me!
+
+Q6)
+Found me!
+
+Q7)
+./home/myClasses/myPackages/funPack/Foo.java or ./home/otherClasses/myPackages/funPack/Foo.java
+
+Q8)
+added manifest                                                                                                                     
+adding: GeometricObject.class(in = 368) (out= 251)(deflated 31%)                                                                   
+adding: Circle.class(in = 754) (out= 472)(deflated 37%)                                                                            
+adding: Rectangle.class(in = 741) (out= 450)(deflated 39%)                                                                         
+adding: EquilateralTriangle.class(in = 906) (out= 534)(deflated 41%)                                                               
+adding: ObjectCalculator.class(in = 1625) (out= 962)(deflated 40%) 

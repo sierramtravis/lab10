@@ -1,0 +1,5 @@
+#!/bin/bash
+
+javac ObjectCalculator.java
+java ObjectCalculator
+rm *.class
